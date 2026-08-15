@@ -252,6 +252,12 @@ section{
 
 }
 
+/* Centralizar ícones de redes sociais no mobile */
+.contact-social{
+    justify-content:center;
+
+}
+
 .section-title{
 
     font-size:36px;

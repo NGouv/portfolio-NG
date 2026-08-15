@@ -583,39 +583,7 @@ section{
 
 }
 
-/* Scroll */
-
-.scroll-down{
-
-    position:absolute;
-
-    bottom:40px;
-
-    left:50%;
-
-    transform:translateX(-50%);
-
-    display:flex;
-
-    flex-direction:column;
-
-    align-items:center;
-
-    gap:8px;
-
-    color:#fff;
-
-    opacity:.8;
-
-    animation:bounce 2s infinite;
-
-}
-
-.scroll-down i{
-
-    font-size:28px;
-
-}
+/* Scroll removed */
 
 /* Animações */
 
